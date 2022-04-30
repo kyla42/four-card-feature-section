@@ -28,7 +28,7 @@ body {
     display: flex;
     justify-content: center;
     background-color: #c5c5c5;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .container {
